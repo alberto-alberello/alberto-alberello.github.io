@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## My research
 
 I research geophysical fluid dynamics problems and interactions at the air--sea--ice interface combining theoretical, numerical and physical modelling as well as conducting field measurements.
 
