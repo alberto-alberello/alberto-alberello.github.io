@@ -8,11 +8,26 @@ wave dissipation, sea ice drift, wave induced breakup, floe size distribution.
 ### Nonlinear ocean wave dynamics
 wave turbulence, rogue wave statistics, wave induced kinematics, wave induced turbulence and wave-structure interaction.
 
+## Talks
+
+## Publications
+
+# Journal
+
+3. third 
+2. second
+1. first
+
+# Conference proceedings
+
+## Data sets
+
 ## Experience
 - Research fellow The University of Melbourne/University of Adelaide, 2017--ongoing
 
 ## Education
 - PhD Science, Swinburne University of Technology (Australia), 2017
+
 _Kinematics of breaking rogue waves_ supervised by A/Prof Toffoli
 - MSc Civil & Environmental Engineering, Politectnico di Milano (Italy), 2012
 - BSc Civil & Environmental Engineering, Politectnico di Milano (Italy), 2010
