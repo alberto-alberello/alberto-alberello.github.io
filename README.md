@@ -1,5 +1,14 @@
 ## Welcome to GitHub Pages
 
+I research geophysical fluid dynamics problems and interactions at the air--sea--ice interface combining theoretical, numerical and physical modelling as well as conducting field measurements.
+\vspace{2.5pt}
+
+\begin{itemize}
+    \item{\textbf{Marginal ice zone processes}: wave dissipation, sea ice drift, wave induced breakup, floe size distribution.}
+    \vspace{2.5pt}
+    \item{\textbf{Nonlinear ocean wave dynamics}: wave turbulence, rogue wave statistics, wave induced kinematics, wave induced turbulence and wave-structure interaction.}
+\end{itemize}
+
 Here we start
 
 You can use the [editor on GitHub](https://github.com/alberto-alberello/research/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
