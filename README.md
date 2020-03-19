@@ -12,7 +12,7 @@ wave turbulence, rogue wave statistics, wave induced kinematics, wave induced tu
 
 ### Appointments
 
-- Research fellow The University of Melbourne/University of Adelaide, 2017--ongoing.<br/>__Drift ofthe Antarctic ice edge__, with A/Prof Luke Bennetts, funded by the Australian Antarctic Science Program (AAS--4434).<br/>__Metocean properties of the Sub-Antarctic and Antarctic waters: winds,waves, currents, ice, and their interactions__, with A/Prof Alessandro Toffoli, funded by the Antarctic Circumnavigation Expedition.
+- Research fellow The University of Melbourne/University of Adelaide, 2017--ongoing.<br/>__Drift ofthe Antarctic ice edge__, with A/Prof Luke Bennetts, funded by the Australian Antarctic Science Program (AAS--4434).<br/>__Metocean properties of the Sub-Antarctic and Antarctic waters: winds, waves, currents, ice, and their interactions__, with A/Prof Alessandro Toffoli, funded by the Antarctic Circumnavigation Expedition.
 
 ### Visiting periods
 
