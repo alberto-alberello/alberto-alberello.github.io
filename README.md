@@ -1,6 +1,6 @@
 # My research
 
-I research geophysical fluid dynamics problems and interactions at the air--sea--ice interface combining theoretical, numerical and physical modelling as well as conducting field measurements.
+I investigate geophysical fluid dynamics problems and interactions at the air--sea--ice interface combining theoretical, numerical and physical modelling as well as conducting field measurements.
 
 #### Marginal ice zone processes
 wave dissipation, sea ice drift, wave induced breakup, floe size distribution.
@@ -8,18 +8,18 @@ wave dissipation, sea ice drift, wave induced breakup, floe size distribution.
 #### Nonlinear ocean wave dynamics
 wave turbulence, rogue wave statistics, wave induced kinematics, wave induced turbulence and wave-structure interaction.
 
-## Experience
+# Experience
 
-## Appointments
+### Appointments
 - Research fellow The University of Melbourne/University of Adelaide, 2017--ongoing
 
-## Education
+### Education
 - PhD Science, Swinburne University of Technology (Australia), 2017
-__Kinematics of breaking rogue waves_ supervised by A/Prof Toffoli__
+__Kinematics of breaking rogue waves__, supervised by A/Prof Toffoli
 - MSc Civil & Environmental Engineering, Politectnico di Milano (Italy), 2012
 - BSc Civil & Environmental Engineering, Politectnico di Milano (Italy), 2010
 
-## Publications
+# Publications
 
 *Denotes supervised students
 
@@ -27,7 +27,7 @@ __Kinematics of breaking rogue waves_ supervised by A/Prof Toffoli__
 
 #### Submitted
 
-[j14. Fadaeiazar*, Leontini, Onorato, Waseda, **Alberello** and Toffoli.__Fourier amplitude distribution and intermittency in mechanically generated surface waves__.]()
+j14. Fadaeiazar*, Leontini, Onorato, Waseda, **Alberello** and Toffoli. __Fourier amplitude distribution and intermittency in mechanically generated surface waves__.
 
 #### 2020
 
@@ -71,7 +71,7 @@ __Kinematics of breaking rogue waves_ supervised by A/Prof Toffoli__
 
 #### 2020
 
-[c10. Passerotti, **Alberello**, Dolatshah, Bennetts, Puolakka, Von Bock Und Polach, Klein, Hartmann, Monbaliu, Toffoli. __Wave propagation in continuous sea ice: an experimental perspective__. Proceedings of the ASME 39th OMAE, Fort Lauderdale, USA. ASME. 2020.]()
+c10. Passerotti, **Alberello**, Dolatshah, Bennetts, Puolakka, Von Bock Und Polach, Klein, Hartmann, Monbaliu, Toffoli. __Wave propagation in continuous sea ice: an experimental perspective__. Proceedings of the ASME 39th OMAE, Fort Lauderdale, USA. ASME. 2020.
 
 #### 2019
 
@@ -89,17 +89,17 @@ __Kinematics of breaking rogue waves_ supervised by A/Prof Toffoli__
 
 [c5. **Alberello**, Chabchoub, Babanin, Monty, Elsnab, Lee, Bitner-Gregersen, and Toffoli. __The velocity field underneath linear and nonlinear breaking rogue waves__. Proceedings of the ASME 35th OMAE, Busan, South Korea. ASME. 2016.](http://doi.org/10.1115/OMAE2016-54481)
 
-[c4. Iafrati, DeVita, Toffoli and **Alberello**. __Strongly nonlinear phenomena in extreme waves__. Transactions--Society of Naval Architects and Marine Engineers, Providence, Rhode Island, USA. 2016.]
+c4. Iafrati, DeVita, Toffoli and **Alberello**. __Strongly nonlinear phenomena in extreme waves__. Transactions--Society of Naval Architects and Marine Engineers, Providence, Rhode Island, USA. 2016.
 
-\item{Skene, Bennetts, Meylan, Toffoli, \textbf{Alberello}, Cavaliere, Elsnab and Monty. \textit{Overwash of a floating thin elastic plate by regular water waves: a theoretical model and experimental validation.} Proceedings of the 7th International Conference on Hydroelasticity in Marine Technology, Split, Croatia. 2015.}
+c3. Skene, Bennetts, Meylan, Toffoli, **Alberello**, Cavaliere, Elsnab and Monty. __Overwash of a floating thin elastic plate by regular water waves: a theoretical model and experimental validation__. Proceedings of the 7th International Conference on Hydroelasticity in Marine Technology, Split, Croatia. 2015.
 
-\item{\textbf{Alberello}, Chabchoub, Gramstad, Babanin and Toffoli. \textit{Statistics of wave orbital velocities in random directional sea states.} Proceedings of the 19th Australasian Fluid Mechanics Conference, RMIT University, Melbourne, Australia. Australasian Fluid Mechanics Society. 2014.}
+c2. **Alberello**, Chabchoub, Gramstad, Babanin and Toffoli. __Statistics of wave orbital velocities in random directional sea states__. Proceedings of the 19th Australasian Fluid Mechanics Conference, RMIT University, Melbourne, Australia. Australasian Fluid Mechanics Society. 2014.
 
-\item{Meylan, Toffoli, Bennetts, Cavaliere, \textbf{Alberello} and Babanin. \textit{An experimental model of wave-induced motions of an ice floe.} Proceedings of the 19th Australasian Fluid Mechanics Conference, RMIT University, Melbourne, Australia. Australasian Fluid Mechanics Society. 2014.}
+c1. Meylan, Toffoli, Bennetts, Cavaliere, **Alberello** and Babanin. __An experimental model of wave-induced motions of an ice floe__. Proceedings of the 19th Australasian Fluid Mechanics Conference, RMIT University, Melbourne, Australia. Australasian Fluid Mechanics Society. 2014.
 
 ### Data sets
 
-
+d7. 
 
 
 
