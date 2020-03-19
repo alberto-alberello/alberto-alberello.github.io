@@ -30,6 +30,13 @@ wave turbulence, rogue wave statistics, wave induced kinematics, wave induced tu
 - Judith Kinnear travel scholarship, 2015.
 - Australian Mathematical Science Institute (AMSI) travel funding 2014 \& 2015.
 
+# Projects
+- SCALE spring cruise
+- SCALE winter cruise
+- Wave hydrodynamics
+- Wave hydrodynamics
+- Winter cruise
+
 # Teaching
 
 ### Courses
@@ -48,10 +55,10 @@ wave turbulence, rogue wave statistics, wave induced kinematics, wave induced tu
 - **Dredging, Swinburne University of Technology**<br/>Teaching (10%) ~30 students, tutorials (100%) ~20 students.
 
 ### Supervision
-- Ms Marzieh H. Derkani, 2017--ongoing, The University of Melbourne, co-supervisor.
-- Ms Elmira Fadaeiazar, 2016--ongoing, Swinburne University of Technology, co-supervisor.
 
 #### PhD candidates
+- Ms Marzieh H. Derkani, 2017--ongoing, The University of Melbourne, co-supervisor.
+- Ms Elmira Fadaeiazar, 2016--ongoing, Swinburne University of Technology, co-supervisor.
 
 #### MSc
 - Mr Amedeo Cappa, 2017, The University of Melbourne/Politecnico di Torino, co-supervisor.
