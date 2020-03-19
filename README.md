@@ -16,11 +16,11 @@ wave turbulence, rogue wave statistics, wave induced kinematics, wave induced tu
 
 # 2020
 
-1. **Alberello**, Bennetts, Heil, Eayrs, Vichi, MacHutchon, Onorato, Toffoli. __Drift of pancake ice floes in the winter Antarctic marginal ice zone during polar cyclones__. Journal of Geophysical Research, Accepted, 2020.[Link](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019JC015418)
+[1. **Alberello**, Bennetts, Heil, Eayrs, Vichi, MacHutchon, Onorato, Toffoli. __Drift of pancake ice floes in the winter Antarctic marginal ice zone during polar cyclones__. Journal of Geophysical Research, Accepted, 2020.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019JC015418)
 
-\item{\textbf{Alberello}, Onorato, Bennetts, Vichi, Earys, MacHutchon, Toffoli. \textit{Pancake ice floe size distribution during the winter expansion of the Antarctic marginal ice zone.} The Cryosphere, 13, 41-48, 2019. \textit{Q1}, 11 cit.} %\url{https://doi.org/10.5194/tc-13-41-2019} , 2019.}
+[2. **Alberello**, Onorato, Bennetts, Vichi, Earys, MacHutchon, Toffoli. __Pancake ice floe size distribution during the winter expansion of the Antarctic marginal ice zone__. The Cryosphere, 13, 41-48, 2019.]((https://doi.org/10.5194/tc-13-41-2019)
 
-\item{\textbf{Alberello}, Onorato, Frascoli, Toffoli. \textit{Observations of turbulence and intermittency in wave-induced oscillatory flows.} Wave Motion, 84, 81-89, 2019. \textit{Q2}, 3 cit.} %\url{https://doi.org/10.1016/j.wavemoti.2018.10.003} , 2019.}
+[3. **Alberello**, Onorato, Frascoli, Toffoli. __Observations of turbulence and intermittency in wave-induced oscillatory flows__. Wave Motion, 84, 81-89, 2019.](https://doi.org/10.1016/j.wavemoti.2018.10.003)
 
 \item{Vichi, Earys, \textbf{Alberello}, Bekker, Bennetts, Holland, de Jong, Joubert, MacHutchon, Messori, Mojica, Onorato, Saunders, Skatulla, Toffoli. \textit{Effects of an explosive polar cyclone crossing the Antarctic marginal ice zone.} Geophysical Research Letters, 2019.  \textit{Q1}, 1 cit.}% \url{https://doi.org/10.1029/2019GL082457} , 2019.}
 
