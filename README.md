@@ -1,46 +1,49 @@
 # My research
 
 I investigate geophysical fluid dynamics problems and interactions at the air--sea--ice interface combining theoretical, numerical and physical modelling as well as conducting field measurements.
-
 #### Marginal ice zone processes
 sea ice drift, wave dissipation, wave induced breakup, floe size distribution.
-
 #### Nonlinear ocean wave dynamics
 wave turbulence, rogue wave statistics, wave induced kinematics, wave induced turbulence and wave-structure interaction.
 
 # Experience
 
 ### Appointments
-
 - Research fellow The University of Melbourne/University of Adelaide, 2017--ongoing.<br/>__Drift ofthe Antarctic ice edge__, with A/Prof Luke Bennetts, funded by the Australian Antarctic Science Program (AAS--4434).<br/>__Metocean properties of the Sub-Antarctic and Antarctic waters: winds, waves, currents, ice, and their interactions__, with A/Prof Alessandro Toffoli, funded by the Antarctic Circumnavigation Expedition.
 
 ### Visiting periods
 
-
 - Prof Miguel Onorato, University of Turin (Italy), 2020.
-
-- Prof Soldati \& Dr Francesco Zonta, TU Wien (Austria), 2017.
+- Prof Soldati & Dr Francesco Zonta, TU Wien (Austria), 2017.
 
 ### Education
 
 - PhD Science, Swinburne University of Technology (Australia), 2017.<br/>__Kinematics of breaking rogue waves__, supervised by A/Prof Toffoli
-
 - MSc Civil & Environmental Engineering, Politectnico di Milano (Italy), 2012.
-
 - BSc Civil & Environmental Engineering, Politectnico di Milano (Italy), 2010.
 
 # Grants and Awards
 
 - Japan Society for the Promotion of Sciences (JSPS) Postdoctoral Fellowship (PE19055), Awarded 2019.<br/>__Wave-in-ice interactions in the Arctic and Antarctic marginal ice zones__ at The University of Tokyo.
-
 - Australian Antarctic Science Program (AAS--4434), Co-funded Post-doctoral Fellow, \$138,000, 2017--2020.<br/>__Drift of the Antarctic ice edge__ with A/Prof Luke Bennetts at the University of Adelaide.
-
 - Swinburne University Postgraduate Research Award, 2013--2017.
-
 - Judith Kinnear travel scholarship, 2015.
-
 - Australian Mathematical Science Institute (AMSI) travel funding 2014 \& 2015.
 
+# Teaching
+
+#### University of Adelaide, 2020
+- **MATHS IB (Calculus & Linear Algebra)**<br/>Teaching (100%) ~220 students, tutorials (100%) ~25 students.
+
+#### The University of Melbourne, 2017--2018.
+- **Metocean engineering**<br/>Teaching (15%) ~20 students, tutorials (100%) ~20 students.
+- **Port access and navigation**<br/>Teaching (15%) ~20 students, tutorials (100%) ~20 students.
+- **Port structural design**<br/>~20 students
+
+#### Swinburne University of Technology, 2015--2017
+- **Coastal and maritime engineering**<br/Teaching> (15%) ~30 students, tutorials (100%) ~20 students.
+- **Port access and navigation**<br/>Teaching (10%) ~30 students, tutorials (100%) ~20 students.
+- **Dredging, Swinburne University of Technology**<br/>Teaching (10%) ~30 students, tutorials (100%) ~20 students.
 
 # Publications
 
