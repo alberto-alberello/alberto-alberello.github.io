@@ -1,7 +1,7 @@
 theme: jekyll-theme-leap-day
 title: Alberto Alberello
 plugins: ['jekyll-twitter-plugin']
-{% twitter https://twitter.com/DepressedDarth/status/684318431227727872 align='center' width='220' %}
+
 
 
 
