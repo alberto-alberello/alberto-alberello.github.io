@@ -11,11 +11,19 @@ wave turbulence, rogue wave statistics, wave induced kinematics, wave induced tu
 # Experience
 
 ### Appointments
+
 - Research fellow The University of Melbourne/University of Adelaide, 2017--ongoing.<br/>__Drift ofthe Antarctic ice edge__, with A/Prof Luke Bennetts, funded by the Australian Antarctic Science Program (AAS--4434).<br/>__Metocean properties of the Sub-Antarctic and Antarctic waters: winds,waves, currents, ice, and their interactions__, with A/Prof Alessandro Toffoli, funded by the Antarctic Circumnavigation Expedition.
 
+### Visiting periods
+
+- 
+
 ### Education
+
 - PhD Science, Swinburne University of Technology (Australia), 2017.<br/>__Kinematics of breaking rogue waves__, supervised by A/Prof Toffoli
+
 - MSc Civil & Environmental Engineering, Politectnico di Milano (Italy), 2012.
+
 - BSc Civil & Environmental Engineering, Politectnico di Milano (Italy), 2010.
 
 # Grants and Awards
