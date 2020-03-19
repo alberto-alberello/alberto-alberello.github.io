@@ -1,32 +1,36 @@
-## My research
+# My research
 
 I research geophysical fluid dynamics problems and interactions at the air--sea--ice interface combining theoretical, numerical and physical modelling as well as conducting field measurements.
 
-### Marginal ice zone processes
+#### Marginal ice zone processes
 wave dissipation, sea ice drift, wave induced breakup, floe size distribution.
 
-### Nonlinear ocean wave dynamics
+#### Nonlinear ocean wave dynamics
 wave turbulence, rogue wave statistics, wave induced kinematics, wave induced turbulence and wave-structure interaction.
 
 ## Talks
 
-### Publications
+## Publications
 
-## Journal
+### Journal
 
-# 2020
+#### 2020
 
 [1. **Alberello**, Bennetts, Heil, Eayrs, Vichi, MacHutchon, Onorato, Toffoli. __Drift of pancake ice floes in the winter Antarctic marginal ice zone during polar cyclones__. Journal of Geophysical Research, Accepted, 2020.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019JC015418)
 
-[2. **Alberello**, Onorato, Bennetts, Vichi, Earys, MacHutchon, Toffoli. __Pancake ice floe size distribution during the winter expansion of the Antarctic marginal ice zone__. The Cryosphere, 13, 41-48, 2019.]((https://doi.org/10.5194/tc-13-41-2019)
+#### 2019
+
+[2. **Alberello**, Onorato, Bennetts, Vichi, Earys, MacHutchon, Toffoli. __Pancake ice floe size distribution during the winter expansion of the Antarctic marginal ice zone__. The Cryosphere, 13, 41-48, 2019.](https://doi.org/10.5194/tc-13-41-2019)
 
 [3. **Alberello**, Onorato, Frascoli, Toffoli. __Observations of turbulence and intermittency in wave-induced oscillatory flows__. Wave Motion, 84, 81-89, 2019.](https://doi.org/10.1016/j.wavemoti.2018.10.003)
 
-\item{Vichi, Earys, \textbf{Alberello}, Bekker, Bennetts, Holland, de Jong, Joubert, MacHutchon, Messori, Mojica, Onorato, Saunders, Skatulla, Toffoli. \textit{Effects of an explosive polar cyclone crossing the Antarctic marginal ice zone.} Geophysical Research Letters, 2019.  \textit{Q1}, 1 cit.}% \url{https://doi.org/10.1029/2019GL082457} , 2019.}
+[4. Vichi, Earys, **Alberello**, Bekker, Bennetts, Holland, de Jong, Joubert, MacHutchon, Messori, Mojica, Onorato, Saunders, Skatulla, Toffoli. __Effects of an explosive polar cyclone crossing the Antarctic marginal ice zone__. Geophysical Research Letters, 2019.](https://doi.org/10.1029/2019GL082457)
 
-\item{\textbf{Alberello}, Iafrati. \textit{The Velocity field underneath a breaking rogue wave: laboratory experiments versus numerical simulations.} Fluids, 4(2), 68, 2019. \textit{N/A}, 1 cit.}% \url{https://doi.org/10.3390/fluids4020068} , 2019.}
+[5. **Alberello**, Iafrati. __The Velocity field underneath a breaking rogue wave: laboratory experiments versus numerical simulations__. Fluids, 4(2), 68, 2019.](https://doi.org/10.3390/fluids4020068)
 
-\item{Fadaeiazar*, \textbf{Alberello}$^o$, Onorato, Leontini, Frascoli, Waseda, Toffoli. \textit{Wave turbulence and intermittency in directional wave fields.} Wave Motion, 83, 94--101, 2018. \textit{Q2}, 1 cit.}%\url{https://doi.org/10.1016/j.wavemoti.2018.09.002} , 2018.}
+#### 2018
+
+[6. Fadaeiazar*, **Alberello**, Onorato, Leontini, Frascoli, Waseda, Toffoli. __Wave turbulence and intermittency in directional wave fields__. Wave Motion, 83, 94--101, 2018.](https://doi.org/10.1016/j.wavemoti.2018.09.002)
 
 \item{\textbf{Alberello}, Chabchoub, Monty, Nelli, Lee, Elsnab, Toffoli. \textit{An experimental comparison of velocities underneath focussed breaking waves.} Ocean Engineering, 155, 201--210, 2018. \textit{Q1}, 14 cit.}%\url{https://doi.org/10.1016/j.oceaneng.2018.02.049} , 2018.}
 
