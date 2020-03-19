@@ -16,7 +16,10 @@ wave turbulence, rogue wave statistics, wave induced kinematics, wave induced tu
 
 ### Visiting periods
 
-- 
+
+- Prof Miguel Onorato, University of Turin (Italy), 2020.
+
+- Prof Soldati \& Dr Francesco Zonta, TU Wien (Austria), 2017.
 
 ### Education
 
@@ -28,9 +31,16 @@ wave turbulence, rogue wave statistics, wave induced kinematics, wave induced tu
 
 # Grants and Awards
 
-- Prof Miguel Onorato, University of Turin (Italy), 2020.
+- Japan Society for the Promotion of Sciences (JSPS) Postdoctoral Fellowship (PE19055), Awarded 2019.<br/>__Wave-in-ice interactions in the Arctic and Antarctic marginal ice zones__ at The University of Tokyo.
 
-- Prof Soldati \& Dr Francesco Zonta, TU Wien (Austria), 2017.
+- Australian Antarctic Science Program (AAS--4434), Co-funded Post-doctoral Fellow, \$138,000, 2017--2020.<br/>__Drift of the Antarctic ice edge__ with A/Prof Luke Bennetts at the University of Adelaide.
+
+- Swinburne University Postgraduate Research Award, 2013--2017.
+
+- Judith Kinnear travel scholarship, 2015.
+
+- Australian Mathematical Science Institute (AMSI) travel funding 2014 \& 2015.
+
 
 # Publications
 
