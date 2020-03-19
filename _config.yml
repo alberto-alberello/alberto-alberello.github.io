@@ -2,5 +2,7 @@ theme: jekyll-theme-leap-day
 title: Alberto Alberello
 plugins: ['jekyll-twitter-plugin']
 
+{% twitter https://twitter.com/jekyllrb maxwidth=500 limit=5 %}
+
 
 
