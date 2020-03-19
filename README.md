@@ -31,7 +31,7 @@ j14. Fadaeiazar*, Leontini, Onorato, Waseda, **Alberello** and Toffoli. __Fourie
 
 #### 2020
 
-[j13. **Alberello**, Bennetts, Heil, Eayrs, Vichi, MacHutchon, Onorato and Toffoli. __Drift of pancake ice floes in the winter Antarctic marginal ice zone during polar cyclones__. Journal of Geophysical Research, Accepted, 2020.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019JC015418)
+[j13. **Alberello**, Bennetts, Heil, Eayrs, Vichi, MacHutchon, Onorato and Toffoli. __Drift of pancake ice floes in the winter Antarctic marginal ice zone during polar cyclones__. Journal of Geophysical Research: Oceans, 125(3), 2020.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019JC015418)
 
 #### 2019
 
@@ -39,7 +39,7 @@ j14. Fadaeiazar*, Leontini, Onorato, Waseda, **Alberello** and Toffoli. __Fourie
 
 [j11. **Alberello**, Onorato, Frascoli and Toffoli. __Observations of turbulence and intermittency in wave-induced oscillatory flows__. Wave Motion, 84, 81-89, 2019.](https://doi.org/10.1016/j.wavemoti.2018.10.003)
 
-[j10. Vichi, Earys, **Alberello**, Bekker, Bennetts, Holland, de Jong, Joubert, MacHutchon, Messori, Mojica, Onorato, Saunders, Skatulla and Toffoli. __Effects of an explosive polar cyclone crossing the Antarctic marginal ice zone__. Geophysical Research Letters, 2019.](https://doi.org/10.1029/2019GL082457)
+[j10. Vichi, Earys, **Alberello**, Bekker, Bennetts, Holland, de Jong, Joubert, MacHutchon, Messori, Mojica, Onorato, Saunders, Skatulla and Toffoli. __Effects of an explosive polar cyclone crossing the Antarctic marginal ice zone__. Geophysical Research Letters, 46(11), 5948-5958, 2019.](https://doi.org/10.1029/2019GL082457)
 
 [j9. **Alberello** and Iafrati. __The Velocity field underneath a breaking rogue wave: laboratory experiments versus numerical simulations__. Fluids, 4(2), 68, 2019.](https://doi.org/10.3390/fluids4020068)
 
@@ -99,7 +99,21 @@ c1. Meylan, Toffoli, Bennetts, Cavaliere, **Alberello** and Babanin. __An experi
 
 ### Data sets
 
-d7. 
+d7. **Alberello**, Bennetts, Toffoli (2020, updated 2020) __Marginal ice zone drift prediction model__, Australian Antarctic Data Centre -- [doi:10.26179/5e3b98478d0c3](doi:10.26179/5e3b98478d0c3)
+
+d6. Derkani*, **Alberello**, Bennetts, Toffoli (2019, updated 2019) __ACE wave spectra--model prediction vs WaMoSII data__, Australian Antarctic Data Centre -- [doi:10.26179/5d280fa04c386](doi:10.26179/5d280fa04c386)
+
+d5. MacHutchon, Vichi, Eayrs, **Alberello**, Babanin, Bekker, Bennetts, Holland, De Jong, Joubert, Messori, Mojica, Onorato, Saunders, Skatulla, Toffoli (2019, updated 2019) __SA Agulhas II Winter 2017 Cruise: ice edge drifters__, Australian Antarctic Data Centre -- [doi:10.26179/5cc937513bd6d](doi:10.26179/5cc937513bd6d)
+
+d4. Eayrs, Holland, Mojica, Vichi, **Alberello**, Bekker, Bennetts, De Jong, Joubert, MacHutchon, Messori, Onorato, Saunders, Skatulla, Toffoli (2019, updated 2019) )__SA Agulhas II Winter 2017 Cruise: Waves In Ice Observation Systems (WIIOS)__, Australian Antarctic Data Centre -- [doi:10.26179/5cc934992f065](doi:10.26179/5cc934992f065)
+
+d3. **Alberello**, Bennetts, Derkani, Toffoli (2018) __Antarctic Circumnavigation Expedition 2017: HOSM data product__, Australian Antarctic Data Centre -- [doi:10.26179/5b8378b160b02](doi:10.26179/5b8378b160b02)
+
+d2. **Alberello**, Bennetts, Toffoli (2017, updated 2018) __Antarctic Circumnavigation Expedition 2017: WAMOS data__, Australian Antarctic Data Centre -- [doi:10.4225/15/5a17923429cb7](doi:10.4225/15/5a17923429cb7)
+
+d1. **Alberello**, Bennetts, Toffoli (2017, updated 2017) __Antarctic Circumnavigation Expedition 2017: motion sensor and GPS data__, Australian Antarctic Data Centre -- [doi:10.4225/15/5a178ef0e5156](doi:10.4225/15/5a178ef0e5156)
+
+
 
 
 
