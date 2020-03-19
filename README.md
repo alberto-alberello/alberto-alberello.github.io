@@ -1,3 +1,5 @@
+{% twitter https://twitter.com/jekyllrb maxwidth=500 limit=5 %}
+
 # My research
 
 I investigate geophysical fluid dynamics problems and interactions at the air--sea--ice interface combining theoretical, numerical and physical modelling as well as conducting field measurements.
