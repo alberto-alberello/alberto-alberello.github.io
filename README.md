@@ -22,7 +22,6 @@ wave turbulence, rogue wave statistics, wave induced kinematics, wave induced tu
 
 -
 -
--
 
 # Publications
 
@@ -50,27 +49,27 @@ j9. [**Alberello** and Iafrati. __The Velocity field underneath a breaking rogue
 
 #### 2018
 
-j8. [Fadaeiazar*, **Alberello**, Onorato, Leontini, Frascoli, Waseda and Toffoli. __Wave turbulence and intermittency in directional wave fields__. Wave Motion, 83, 94--101, 2018.](https://doi.org/10.1016/j.wavemoti.2018.09.002)
+j8. [Fadaeiazar*, **Alberello**, Onorato, Leontini, Frascoli, Waseda and Toffoli. __Wave turbulence and intermittency in directional wave fields__. Wave Motion, 83, 94-101, 2018.](https://doi.org/10.1016/j.wavemoti.2018.09.002)
 
-j7. [**Alberello**, Chabchoub, Monty, Nelli, Lee, Elsnab and Toffoli. __An experimental comparison of velocities underneath focussed breaking waves__. Ocean Engineering, 155, 201--210, 2018.](https://doi.org/10.1016/j.oceaneng.2018.02.049)
+j7. [**Alberello**, Chabchoub, Monty, Nelli, Lee, Elsnab and Toffoli. __An experimental comparison of velocities underneath focussed breaking waves__. Ocean Engineering, 155, 201-210, 2018.](https://doi.org/10.1016/j.oceaneng.2018.02.049)
 
 j6. [Dolatshah, Bennetts, Nelli, Meylan, **Alberello**, Monty and Toffoli. __Hydroelastic interactions between water waves and floating freshwater ice__. Physics of Fluids, 30, 091702, 2018.](https://doi.org/10.1063/1.5050262)
 
 #### 2017
 
-j5. [Lee, Monty, Elsnab, Toffoli, Babanin and **Alberello**. __Estimation of kinetic energy dissipation from breaking waves in the crest region__. Journal of Physical Oceanography, 47, 1145--1150, 2017.](https://doi.org/10.1175/JPO-D-16-0273.1)
+j5. [Lee, Monty, Elsnab, Toffoli, Babanin and **Alberello**. __Estimation of kinetic energy dissipation from breaking waves in the crest region__. Journal of Physical Oceanography, 47, 1145-1150, 2017.](https://doi.org/10.1175/JPO-D-16-0273.1)
 
 #### 2016
 
-j4. [**Alberello**, Chabchoub, Gramstad, Babanin and Toffoli. __Non--Gaussian properties of second-order wave orbital velocity__. Coastal Engineering, 110, 42--49, 2016.](https://doi.org/10.1016/j.coastaleng.2016.01.001)
+j4. [**Alberello**, Chabchoub, Gramstad, Babanin and Toffoli. __Non--Gaussian properties of second-order wave orbital velocity__. Coastal Engineering, 110, 42-49, 2016.](https://doi.org/10.1016/j.coastaleng.2016.01.001)
 
 #### 2015
 
-j3. [Bennetts, **Alberello**, Meylan, Cavaliere, Babanin and Toffoli. __An idealised experimental model of ocean surface wave transmission by an ice floe__. Ocean Modelling, 96, 85--92, 2015.](https://doi.org/10.1016/j.ocemod.2015.03.001)
+j3. [Bennetts, **Alberello**, Meylan, Cavaliere, Babanin and Toffoli. __An idealised experimental model of ocean surface wave transmission by an ice floe__. Ocean Modelling, 96, 85-92, 2015.](https://doi.org/10.1016/j.ocemod.2015.03.001)
 
 j2. [Meylan, Bennetts, Cavaliere, **Alberello** and Toffoli. __Experimental and theoretical models of wave-induced flexure of a sea ice floe__. Physics of Fluids, 27, 041704, 2015.](https://doi.org/10.1063/1.4916573)
 
-j1. [Toffoli, Bennetts, Meylan, Cavaliere, **Alberello**, Elsnab and Monty. __Sea ice floes dissipate the energy of steep ocean waves__. Geophysical Research Letter, 42(20), 8547--8554, 2015.](https://doi.org/10.1002/2015GL065937)
+j1. [Toffoli, Bennetts, Meylan, Cavaliere, **Alberello**, Elsnab and Monty. __Sea ice floes dissipate the energy of steep ocean waves__. Geophysical Research Letter, 42(20), 8547-8554, 2015.](https://doi.org/10.1002/2015GL065937)
 
 ### Conference proceedings
 
@@ -110,25 +109,25 @@ c1. Meylan, Toffoli, Bennetts, Cavaliere, **Alberello** and Babanin. __An experi
 
 #### 2020
 
-d7. **Alberello**, Bennetts, Toffoli (2020, updated 2020) __Marginal ice zone drift prediction model__, Australian Antarctic Data Centre -- [doi:10.26179/5e3b98478d0c3](doi:10.26179/5e3b98478d0c3)
+d7. **Alberello**, Bennetts, Toffoli (2020, updated 2020). __Marginal ice zone drift prediction model__, Australian Antarctic Data Centre -- [doi:10.26179/5e3b98478d0c3](doi:10.26179/5e3b98478d0c3)
 
 #### 2019
 
-d6. Derkani*, **Alberello**, Bennetts, Toffoli (2019, updated 2019) __ACE wave spectra--model prediction vs WaMoSII data__, Australian Antarctic Data Centre -- [doi:10.26179/5d280fa04c386](doi:10.26179/5d280fa04c386)
+d6. Derkani*, **Alberello**, Bennetts, Toffoli (2019, updated 2019). __ACE wave spectra--model prediction vs WaMoSII data__, Australian Antarctic Data Centre -- [doi:10.26179/5d280fa04c386](doi:10.26179/5d280fa04c386)
 
-d5. MacHutchon, Vichi, Eayrs, **Alberello**, Babanin, Bekker, Bennetts, Holland, De Jong, Joubert, Messori, Mojica, Onorato, Saunders, Skatulla, Toffoli (2019, updated 2019) __SA Agulhas II Winter 2017 Cruise: ice edge drifters__, Australian Antarctic Data Centre -- [doi:10.26179/5cc937513bd6d](doi:10.26179/5cc937513bd6d)
+d5. MacHutchon, Vichi, Eayrs, **Alberello**, Babanin, Bekker, Bennetts, Holland, De Jong, Joubert, Messori, Mojica, Onorato, Saunders, Skatulla, Toffoli (2019, updated 2019). __SA Agulhas II Winter 2017 Cruise: ice edge drifters__, Australian Antarctic Data Centre -- [doi:10.26179/5cc937513bd6d](doi:10.26179/5cc937513bd6d)
 
-d4. Eayrs, Holland, Mojica, Vichi, **Alberello**, Bekker, Bennetts, De Jong, Joubert, MacHutchon, Messori, Onorato, Saunders, Skatulla, Toffoli (2019, updated 2019) )__SA Agulhas II Winter 2017 Cruise: Waves In Ice Observation Systems (WIIOS)__, Australian Antarctic Data Centre -- [doi:10.26179/5cc934992f065](doi:10.26179/5cc934992f065)
+d4. Eayrs, Holland, Mojica, Vichi, **Alberello**, Bekker, Bennetts, De Jong, Joubert, MacHutchon, Messori, Onorato, Saunders, Skatulla, Toffoli (2019, updated 2019) ). __SA Agulhas II Winter 2017 Cruise: Waves In Ice Observation Systems (WIIOS)__, Australian Antarctic Data Centre -- [doi:10.26179/5cc934992f065](doi:10.26179/5cc934992f065)
 
 #### 2018
 
-d3. **Alberello**, Bennetts, Derkani, Toffoli (2018) __Antarctic Circumnavigation Expedition 2017: HOSM data product__, Australian Antarctic Data Centre -- [doi:10.26179/5b8378b160b02](doi:10.26179/5b8378b160b02)
+d3. **Alberello**, Bennetts, Derkani, Toffoli (2018). __Antarctic Circumnavigation Expedition 2017: HOSM data product__, Australian Antarctic Data Centre -- [doi:10.26179/5b8378b160b02](doi:10.26179/5b8378b160b02)
 
-d2. **Alberello**, Bennetts, Toffoli (2017, updated 2018) __Antarctic Circumnavigation Expedition 2017: WAMOS data__, Australian Antarctic Data Centre -- [doi:10.4225/15/5a17923429cb7](doi:10.4225/15/5a17923429cb7)
+d2. **Alberello**, Bennetts, Toffoli (2017, updated 2018). __Antarctic Circumnavigation Expedition 2017: WAMOS data__, Australian Antarctic Data Centre -- [doi:10.4225/15/5a17923429cb7](doi:10.4225/15/5a17923429cb7)
 
 #### 2017
 
-d1. **Alberello**, Bennetts, Toffoli (2017, updated 2017) __Antarctic Circumnavigation Expedition 2017: motion sensor and GPS data__, Australian Antarctic Data Centre -- [doi:10.4225/15/5a178ef0e5156](doi:10.4225/15/5a178ef0e5156)
+d1. **Alberello**, Bennetts, Toffoli (2017, updated 2017). __Antarctic Circumnavigation Expedition 2017: motion sensor and GPS data__, Australian Antarctic Data Centre -- [doi:10.4225/15/5a178ef0e5156](doi:10.4225/15/5a178ef0e5156)
 
 
 
