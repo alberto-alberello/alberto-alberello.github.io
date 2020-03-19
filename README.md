@@ -125,7 +125,7 @@ d6. Derkani*, **Alberello**, Bennetts, Toffoli (2019, updated 2019). __ACE wave 
 
 d5. MacHutchon, Vichi, Eayrs, **Alberello**, Babanin, Bekker, Bennetts, Holland, De Jong, Joubert, Messori, Mojica, Onorato, Saunders, Skatulla, Toffoli (2019, updated 2019). __SA Agulhas II Winter 2017 Cruise: ice edge drifters__, Australian Antarctic Data Centre -- [doi:10.26179/5cc937513bd6d](doi:10.26179/5cc937513bd6d)
 
-d4. Eayrs, Holland, Mojica, Vichi, **Alberello**, Bekker, Bennetts, De Jong, Joubert, MacHutchon, Messori, Onorato, Saunders, Skatulla, Toffoli (2019, updated 2019) ). __SA Agulhas II Winter 2017 Cruise: Waves In Ice Observation Systems (WIIOS)__, Australian Antarctic Data Centre -- [doi:10.26179/5cc934992f065](doi:10.26179/5cc934992f065)
+d4. Eayrs, Holland, Mojica, Vichi, **Alberello**, Bekker, Bennetts, De Jong, Joubert, MacHutchon, Messori, Onorato, Saunders, Skatulla, Toffoli (2019, updated 2019). __SA Agulhas II Winter 2017 Cruise: Waves In Ice Observation Systems (WIIOS)__, Australian Antarctic Data Centre -- [doi:10.26179/5cc934992f065](doi:10.26179/5cc934992f065)
 
 #### 2018
 
