@@ -8,43 +8,55 @@ wave dissipation, sea ice drift, wave induced breakup, floe size distribution.
 #### Nonlinear ocean wave dynamics
 wave turbulence, rogue wave statistics, wave induced kinematics, wave induced turbulence and wave-structure interaction.
 
-## Talks
+### Talks
 
 ## Publications
 
-### Journal
+*Denotes supervised students
+
+### Journal papers
+
+#### Submitted
+
+[Fadaeiazar*, Leontini, Onorato, Waseda, **Alberello**, Toffoli.__Fourier amplitude distribution and intermittency in mechanically generated surface waves__.]()
 
 #### 2020
 
-[1. **Alberello**, Bennetts, Heil, Eayrs, Vichi, MacHutchon, Onorato, Toffoli. __Drift of pancake ice floes in the winter Antarctic marginal ice zone during polar cyclones__. Journal of Geophysical Research, Accepted, 2020.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019JC015418)
+[13. **Alberello**, Bennetts, Heil, Eayrs, Vichi, MacHutchon, Onorato, Toffoli. __Drift of pancake ice floes in the winter Antarctic marginal ice zone during polar cyclones__. Journal of Geophysical Research, Accepted, 2020.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019JC015418)
 
 #### 2019
 
-[2. **Alberello**, Onorato, Bennetts, Vichi, Earys, MacHutchon, Toffoli. __Pancake ice floe size distribution during the winter expansion of the Antarctic marginal ice zone__. The Cryosphere, 13, 41-48, 2019.](https://doi.org/10.5194/tc-13-41-2019)
+[12. **Alberello**, Onorato, Bennetts, Vichi, Earys, MacHutchon, Toffoli. __Pancake ice floe size distribution during the winter expansion of the Antarctic marginal ice zone__. The Cryosphere, 13, 41-48, 2019.](https://doi.org/10.5194/tc-13-41-2019)
 
-[3. **Alberello**, Onorato, Frascoli, Toffoli. __Observations of turbulence and intermittency in wave-induced oscillatory flows__. Wave Motion, 84, 81-89, 2019.](https://doi.org/10.1016/j.wavemoti.2018.10.003)
+[11. **Alberello**, Onorato, Frascoli, Toffoli. __Observations of turbulence and intermittency in wave-induced oscillatory flows__. Wave Motion, 84, 81-89, 2019.](https://doi.org/10.1016/j.wavemoti.2018.10.003)
 
-[4. Vichi, Earys, **Alberello**, Bekker, Bennetts, Holland, de Jong, Joubert, MacHutchon, Messori, Mojica, Onorato, Saunders, Skatulla, Toffoli. __Effects of an explosive polar cyclone crossing the Antarctic marginal ice zone__. Geophysical Research Letters, 2019.](https://doi.org/10.1029/2019GL082457)
+[10. Vichi, Earys, **Alberello**, Bekker, Bennetts, Holland, de Jong, Joubert, MacHutchon, Messori, Mojica, Onorato, Saunders, Skatulla, Toffoli. __Effects of an explosive polar cyclone crossing the Antarctic marginal ice zone__. Geophysical Research Letters, 2019.](https://doi.org/10.1029/2019GL082457)
 
-[5. **Alberello**, Iafrati. __The Velocity field underneath a breaking rogue wave: laboratory experiments versus numerical simulations__. Fluids, 4(2), 68, 2019.](https://doi.org/10.3390/fluids4020068)
+[9. **Alberello**, Iafrati. __The Velocity field underneath a breaking rogue wave: laboratory experiments versus numerical simulations__. Fluids, 4(2), 68, 2019.](https://doi.org/10.3390/fluids4020068)
 
 #### 2018
 
-[6. Fadaeiazar*, **Alberello**, Onorato, Leontini, Frascoli, Waseda, Toffoli. __Wave turbulence and intermittency in directional wave fields__. Wave Motion, 83, 94--101, 2018.](https://doi.org/10.1016/j.wavemoti.2018.09.002)
+[8. Fadaeiazar*, **Alberello**, Onorato, Leontini, Frascoli, Waseda, Toffoli. __Wave turbulence and intermittency in directional wave fields__. Wave Motion, 83, 94--101, 2018.](https://doi.org/10.1016/j.wavemoti.2018.09.002)
 
-\item{\textbf{Alberello}, Chabchoub, Monty, Nelli, Lee, Elsnab, Toffoli. \textit{An experimental comparison of velocities underneath focussed breaking waves.} Ocean Engineering, 155, 201--210, 2018. \textit{Q1}, 14 cit.}%\url{https://doi.org/10.1016/j.oceaneng.2018.02.049} , 2018.}
+[7. **Alberello**, Chabchoub, Monty, Nelli, Lee, Elsnab, Toffoli. __An experimental comparison of velocities underneath focussed breaking waves__. Ocean Engineering, 155, 201--210, 2018.](https://doi.org/10.1016/j.oceaneng.2018.02.049)
 
-\item{Dolatshah*, Bennetts, Nelli, Meylan, \textbf{Alberello}, Monty, Toffoli. \textit{Hydroelastic interactions between water waves and floating freshwater ice.} Physics of Fluids, 30, 091702, 2018. \textit{Q1}, 14 cit.}%\url{https://doi.org/10.1063/1.5050262} , 2018.}
+[6. Dolatshah, Bennetts, Nelli, Meylan, **Alberello**, Monty, Toffoli. __Hydroelastic interactions between water waves and floating freshwater ice__. Physics of Fluids, 30, 091702, 2018.](https://doi.org/10.1063/1.5050262)
 
-\item{Lee, Monty, Elsnab, Toffoli, Babanin, \textbf{Alberello}. \textit{Estimation of kinetic energy dissipation from breaking waves in the crest region.} Journal of Physical Oceanography, 47, 1145--1150, 2017. \textit{Q1}, 6 cit.}% \url{https://doi.org/10.1175/JPO-D-16-0273.1}, 2017.}
+#### 2017
 
-\item{\textbf{Alberello}, Chabchoub, Gramstad, Babanin, Toffoli. \textit{Non--Gaussian properties of second-order wave orbital velocity.} Coastal Engineering, 110, 42--49, 2016. \textit{Q1}, 11 cit.}% \url{https://doi.org/10.1016/j.coastaleng.2016.01.001} , 2016.}
+[5. Lee, Monty, Elsnab, Toffoli, Babanin, **Alberello**. __Estimation of kinetic energy dissipation from breaking waves in the crest region__. Journal of Physical Oceanography, 47, 1145--1150, 2017.](https://doi.org/10.1175/JPO-D-16-0273.1)
 
-\item{Bennetts, \textbf{Alberello}, Meylan, Cavaliere, Babanin, Toffoli. \textit{An idealised experimental model of ocean surface wave transmission by an ice floe.} Ocean Modelling, 96, 85--92, 2015. \textit{Q1}, 28 cit.}%\url{https://doi.org/10.1016/j.ocemod.2015.03.001} , 2015.}
+#### 2016
 
-\item{Meylan, Bennetts, Cavaliere, \textbf{Alberello}, Toffoli. \textit{Experimental and theoretical models of wave-induced flexure of a sea ice floe.} Physics of Fluids, 27, 041704, 2015. \textit{Q1}, 24 cit.}%\url{https://doi.org/10.1063/1.4916573} , 2015.}
+[4. **Alberello**, Chabchoub, Gramstad, Babanin, Toffoli. __Non--Gaussian properties of second-order wave orbital velocity__. Coastal Engineering, 110, 42--49, 2016.](https://doi.org/10.1016/j.coastaleng.2016.01.001)
 
-\item{Toffoli, Bennetts, Meylan, Cavaliere, \textbf{Alberello}, Elsnab, Monty. \textit{Sea ice floes dissipate the energy of steep ocean waves.} Geophysical Research Letter, 42(20), 8547--8554, 2015. \textit{Q1}, 24 cit.}%\url{https://doi.org/10.1002/2015GL065937} , 2015.}
+#### 2015
+
+[3. Bennetts, **Alberello**, Meylan, Cavaliere, Babanin, Toffoli. __An idealised experimental model of ocean surface wave transmission by an ice floe__. Ocean Modelling, 96, 85--92, 2015.](https://doi.org/10.1016/j.ocemod.2015.03.001)
+
+[2. Meylan, Bennetts, Cavaliere, **Alberello**, Toffoli. __Experimental and theoretical models of wave-induced flexure of a sea ice floe__. Physics of Fluids, 27, 041704, 2015.](https://doi.org/10.1063/1.4916573)
+
+[1. Toffoli, Bennetts, Meylan, Cavaliere, **Alberello**, Elsnab, Monty. __Sea ice floes dissipate the energy of steep ocean waves__. Geophysical Research Letter, 42(20), 8547--8554, 2015.](https://doi.org/10.1002/2015GL065937)
 
 # Conference proceedings
 
