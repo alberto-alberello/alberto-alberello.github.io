@@ -3,7 +3,7 @@
 I investigate geophysical fluid dynamics problems and interactions at the air--sea--ice interface combining theoretical, numerical and physical modelling as well as conducting field measurements.
 
 #### Marginal ice zone processes
-wave dissipation, sea ice drift, wave induced breakup, floe size distribution.
+sea ice drift, wave dissipation, wave induced breakup, floe size distribution.
 
 #### Nonlinear ocean wave dynamics
 wave turbulence, rogue wave statistics, wave induced kinematics, wave induced turbulence and wave-structure interaction.
@@ -11,12 +11,18 @@ wave turbulence, rogue wave statistics, wave induced kinematics, wave induced tu
 # Experience
 
 ### Appointments
-- Research fellow The University of Melbourne/University of Adelaide, 2017--ongoing.
+- Research fellow The University of Melbourne/University of Adelaide, 2017--ongoing.<br/>__Drift ofthe Antarctic ice edge__, with A/Prof Luke Bennetts, funded by the Australian Antarctic Science Program (AAS--4434).<br/>__Metocean properties of the Sub-Antarctic and Antarctic waters: winds,waves, currents, ice, and their interactions__, with A/Prof Alessandro Toffoli, funded by the Antarctic Circumnavigation Expedition.
 
 ### Education
 - PhD Science, Swinburne University of Technology (Australia), 2017.<br/>__Kinematics of breaking rogue waves__, supervised by A/Prof Toffoli
 - MSc Civil & Environmental Engineering, Politectnico di Milano (Italy), 2012.
 - BSc Civil & Environmental Engineering, Politectnico di Milano (Italy), 2010.
+
+# Grants and Awards
+
+-
+-
+-
 
 # Publications
 
