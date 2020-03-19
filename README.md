@@ -1,4 +1,4 @@
-# My research
+# Research
 
 I investigate geophysical fluid dynamics problems and interactions at the air--sea--ice interface combining theoretical, numerical and physical modelling as well as conducting field measurements.
 #### Marginal ice zone processes
@@ -32,18 +32,34 @@ wave turbulence, rogue wave statistics, wave induced kinematics, wave induced tu
 
 # Teaching
 
+### Courses
+
 #### University of Adelaide, 2020
 - **MATHS IB (Calculus & Linear Algebra)**<br/>Teaching (100%) ~220 students, tutorials (100%) ~25 students.
 
 #### The University of Melbourne, 2017--2018.
 - **Metocean engineering**<br/>Teaching (15%) ~20 students, tutorials (100%) ~20 students.
 - **Port access and navigation**<br/>Teaching (15%) ~20 students, tutorials (100%) ~20 students.
-- **Port structural design**<br/>~20 students
+- **Port structural design**<br/>Teaching (15%) ~20 students, tutorials (100%) ~20 students.
 
 #### Swinburne University of Technology, 2015--2017
-- **Coastal and maritime engineering**<br/Teaching> (15%) ~30 students, tutorials (100%) ~20 students.
+- **Coastal and maritime engineering**<br/>Teaching> (15%) ~30 students, tutorials (100%) ~20 students.
 - **Port access and navigation**<br/>Teaching (10%) ~30 students, tutorials (100%) ~20 students.
 - **Dredging, Swinburne University of Technology**<br/>Teaching (10%) ~30 students, tutorials (100%) ~20 students.
+
+### Supervision
+- Ms Marzieh H. Derkani, 2017--ongoing, The University of Melbourne, co-supervisor.
+- Ms Elmira Fadaeiazar, 2016--ongoing, Swinburne University of Technology, co-supervisor.
+
+#### PhD candidates
+
+#### MSc
+- Mr Amedeo Cappa, 2017, The University of Melbourne/Politecnico di Torino, co-supervisor.
+- Mr Pierre Emmanuel Gallerand, 2016, Swinburne University of Technology/Ecole Nationale de la Meteorologie, co-supervisor.
+
+#### Projects
+- Mr Marcus Chatto, 2018, The University of Melbourne, co-supervisor.
+- Mr ames Hayes, 2018, The University of Melbourne, co-supervisor.
 
 # Publications
 
