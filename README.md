@@ -28,8 +28,9 @@ wave turbulence, rogue wave statistics, wave induced kinematics, wave induced tu
 
 # Grants and Awards
 
--
--
+- Prof Miguel Onorato, University of Turin (Italy), 2020.
+
+- Prof Soldati \& Dr Francesco Zonta, TU Wien (Austria), 2017.
 
 # Publications
 
