@@ -29,7 +29,7 @@ wave turbulence, rogue wave statistics, wave induced kinematics, wave induced tu
 - Australian Antarctic Science Program (AAS--4434), Co-funded Post-doctoral Fellow, \$138,000, 2017--2020.<br/>__Drift of the Antarctic ice edge__ with A/Prof Luke Bennetts at the University of Adelaide.
 - Swinburne University Postgraduate Research Award, 2013--2017.
 - Judith Kinnear travel scholarship, 2015.
-- Australian Mathematical Science Institute (AMSI) travel funding 2014 \& 2015.
+- Australian Mathematical Science Institute (AMSI) travel funding 2014 & 2015.
 
 # Projects
 - Invited scientist on board the SA Agulhas II **SCALE** [(Southern oCean seAsonaL Experiment)](http://scale.org.za/) spring cruise -- October–November 2019.
