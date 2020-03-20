@@ -2,8 +2,6 @@ theme: jekyll-theme-leap-day
 title: Alberto Alberello
 plugins: ['jekyll-twitter-plugin']
 
-- README.md
-- index.md
 
 
 
