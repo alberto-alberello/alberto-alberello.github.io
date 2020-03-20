@@ -10,7 +10,7 @@ wave turbulence, rogue wave statistics, wave induced kinematics, wave induced tu
 # Experience
 
 ### Appointments
-- Research fellow The University of Melbourne/University of Adelaide, 2017--ongoing.<br/>__Drift ofthe Antarctic ice edge__, with [A/Prof Luke Bennetts](https://luke-bennetts.com/), funded by the Australian Antarctic Science Program ([AAS--4434](https://secure3.aad.gov.au/public/projects/report_project_public.cfm?project_no=4434&season=1617)).<br/>__Metocean properties of the Sub-Antarctic and Antarctic waters: winds, waves, currents, ice, and their interactions__, with A/Prof Alessandro Toffoli, funded by the Antarctic Circumnavigation Expedition.
+- Research fellow The University of Melbourne/University of Adelaide, 2017--ongoing.<br/>__Drift of the Antarctic ice edge__, with [A/Prof Luke Bennetts](https://luke-bennetts.com/), funded by the Australian Antarctic Science Program ([AAS--4434](https://secure3.aad.gov.au/public/projects/report_project_public.cfm?project_no=4434&season=1617)).<br/>__Metocean properties of the Sub-Antarctic and Antarctic waters: winds, waves, currents, ice, and their interactions__, with A/Prof Alessandro Toffoli, funded by the Antarctic Circumnavigation Expedition.
 
 ### Visiting periods
 
@@ -32,12 +32,18 @@ wave turbulence, rogue wave statistics, wave induced kinematics, wave induced tu
 - Australian Mathematical Science Institute (AMSI) travel funding 2014 & 2015.
 
 # Projects
+
+### Academia
+
 - Invited scientist on board the SA Agulhas II **SCALE** [(Southern oCean seAsonaL Experiment)](http://scale.org.za/) spring cruise -- October–November 2019.
 - Invited scientist on board the SA Agulhas II **SCALE** [(Southern oCean seAsonaL Experiment)](http://scale.org.za/) winter cruise -- July–August 2019.
 - Calibration Validation team for **CFOSAT** (Chinese-French Oceanography Satellite) -- July 2019–ongoing.
+- Invited scientist on board the SA Agulhas II winter cruise -- June–July 2017.
+
+### Industry
+
 - Industry consultant for wave hydrodynamics on Yarra river (Melbourne) -- March 2018.
 - Industry consultant for wave hydrodynamics in Apia (Samoa) -- August 2017.
-- Invited scientist on board the SA Agulhas II winter cruise -- June–July 2017.
 
 # Teaching
 
