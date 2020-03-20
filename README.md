@@ -31,11 +31,12 @@ wave turbulence, rogue wave statistics, wave induced kinematics, wave induced tu
 - Australian Mathematical Science Institute (AMSI) travel funding 2014 \& 2015.
 
 # Projects
-- SCALE spring cruise
-- SCALE winter cruise
-- Wave hydrodynamics
-- Wave hydrodynamics
-- Winter cruise
+- Invited scientist on board the SA Agulhas II SCALE ([Southern oCean seAsonaL Experiment])(http://scale.org.za/) spring cruise -- October–November 2019.
+- Invited scientist on board the SA Agulhas II SCALE ([Southern oCean seAsonaL Experiment])(http://scale.org.za/) winter cruise -- July–August 2019.
+- Calibration Validation team for Chinese-French Oceanography Satellite (CFOSAT) -- July 2019–ongoing.
+- Industry consultant for wave hydrodynamics on Yarra river (Melbourne) -- March 2018.
+- Industry consultant for wave hydrodynamics in Apia (Samoa) -- August 2017.
+- Invited scientist on board the SA Agulhas II winter cruise -- June–July 2017.
 
 # Teaching
 
@@ -76,7 +77,7 @@ wave turbulence, rogue wave statistics, wave induced kinematics, wave induced tu
 
 #### Submitted
 
-j14. Fadaeiazar*, Leontini, Onorato, Waseda, **Alberello** and Toffoli. __Fourier amplitude distribution and intermittency in mechanically generated surface waves__.
+j14. [Fadaeiazar*, Leontini, Onorato, Waseda, **Alberello** and Toffoli. __Fourier amplitude distribution and intermittency in mechanically generated surface waves__. 2020.](https://arxiv.org/pdf/2003.08666.pdf)
 
 #### 2020
 
