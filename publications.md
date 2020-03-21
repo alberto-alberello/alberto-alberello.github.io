@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+*Denotes supervised students
+
 ### Journal papers
 
 #### Submitted
