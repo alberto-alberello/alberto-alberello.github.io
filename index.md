@@ -5,7 +5,7 @@
 # To change the home page layout, edit the _layouts/home.html file.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
-layout: home
+layout: new_home
 ---
 
 Researh fellow in the [School of Mathematical Sciences](https://ecms.adelaide.edu.au/mathematical-sciences/) ([University of Adelaide](https://www.adelaide.edu.au/)) and part of the dynamics, modelling and computation group ([DMC](https://ecms.adelaide.edu.au/research-impact/dynamics-modelling-and-computation)).
