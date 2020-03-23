@@ -9,6 +9,7 @@ permalink: /publications/
 - Citations: 173 (75 in 2019)
 - h-index: 8
 - i-10 index: 8
+
 *Denotes supervised students
 ### Journal papers
 #### Submitted
