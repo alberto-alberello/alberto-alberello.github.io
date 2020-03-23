@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: new_page
 title: CV
 permalink: /cv/
 ---
