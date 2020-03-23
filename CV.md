@@ -38,9 +38,9 @@ permalink: /cv/
 - **Port access and navigation**<br/>Teaching (15%) ~20 students, tutorials (100%) ~20 students.
 - **Port structural design**<br/>Teaching (15%) ~20 students, tutorials (100%) ~20 students.
 #### Swinburne University of Technology, 2015--2017
-- **Coastal and maritime engineering**<br/>Teaching> (15%) ~30 students, tutorials (100%) ~20 students.
-- **Port access and navigation**<br/>Teaching (10%) ~30 students, tutorials (100%) ~20 students.
-- **Dredging, Swinburne University of Technology**<br/>Teaching (10%) ~30 students, tutorials (100%) ~20 students.
+- **Coastal and maritime engineering**<br/>Teaching> (15%) ~30 students, tutorials (100%) ~30 students.
+- **Port access and navigation**<br/>Teaching (10%) ~30 students, tutorials (100%) ~30 students.
+- **Dredging, Swinburne University of Technology**<br/>Teaching (10%) ~30 students, tutorials (100%) ~30 students.
 ### Supervision
 #### PhD candidates
 - Ms Marzieh H. Derkani, 2017--ongoing, The University of Melbourne, co-supervisor.
