@@ -1,14 +1,14 @@
 ---
-layout: page
+layout: new_page
 title: Publications
 permalink: /publications/
 ---
-*Denotes supervised students
 ### Metrics
 [Google Scholar](https://scholar.google.com/citations?user=32bF0ZgAAAAJ&hl=en):
 - Citations: 173 (75 in 2019)
 - h-index: 8
 - i-10 index: 8
+*Denotes supervised students
 ### Journal papers
 #### Submitted
 j14. [Fadaeiazar*, Leontini, Onorato, Waseda, **Alberello** and Toffoli. __Fourier amplitude distribution and intermittency in mechanically generated surface waves__. 2020.](https://arxiv.org/pdf/2003.08666.pdf)
