@@ -13,7 +13,7 @@ permalink: /publications/
 *Denotes supervised students
 ### Journal papers
 #### Submitted
-j14. [Fadaeiazar*, Leontini, Onorato, Waseda, **Alberello** and Toffoli. __Fourier amplitude distribution and intermittency in mechanically generated surface waves__. 2020.](https://arxiv.org/pdf/2003.08666.pdf)
+j14. [Fadaeiazar*, Leontini, Onorato, Waseda, **Alberello** and Toffoli. __Fourier amplitude distribution and intermittency in mechanically generated surface waves__. 2020.](https://arxiv.org/pdf/2003.08666.pdf) -- [Blog](https://alberto-alberello.github.io/wave-turbulence/2020/03/23/fadaeiazar2020a_arxiv.html)
 #### 2020
 j13. [**Alberello**, Bennetts, Heil, Eayrs, Vichi, MacHutchon, Onorato and Toffoli. __Drift of pancake ice floes in the winter Antarctic marginal ice zone during polar cyclones__. Journal of Geophysical Research: Oceans, 125(3), 2020.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019JC015418)
 #### 2019
