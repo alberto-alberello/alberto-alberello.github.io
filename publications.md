@@ -3,6 +3,7 @@ layout: new_page
 title: Publications
 permalink: /publications/
 ---
+
 ### Metrics
 [Google Scholar](https://scholar.google.com/citations?user=32bF0ZgAAAAJ&hl=en):
 - Citations: 173 (75 in 2019)
