@@ -3,6 +3,7 @@ layout: new_page
 title: CV
 permalink: /cv/
 ---
+
 ## Career
 ### Appointments
 - Research fellow The University of Melbourne/University of Adelaide, 2017--ongoing.<br/>__Drift of the Antarctic ice edge__, with [A/Prof Luke Bennetts](https://luke-bennetts.com/), funded by the Australian Antarctic Science Program ([AAS--4434](https://secure3.aad.gov.au/public/projects/report_project_public.cfm?project_no=4434&season=1617)).<br/>__Metocean properties of the Sub-Antarctic and Antarctic waters: winds, waves, currents, ice, and their interactions__, with A/Prof Alessandro Toffoli, funded by the Antarctic Circumnavigation Expedition.
