@@ -9,7 +9,7 @@ tags: wave-turbulence, weak-wave-turbulence, intermittency
 
 Fourier amplitude distribution and intermittency in mechanically generated surface waves
 
-![Fig:04](_media/fig_fadaeiazar2020a_04.png)
+![Fig:04](../../_posts/_media/fig_fadaeiazar2020a_04.png)
 
 
 ### Preprint
