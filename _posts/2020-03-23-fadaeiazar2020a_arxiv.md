@@ -11,6 +11,7 @@ Fourier amplitude distribution and intermittency in mechanically generated surfa
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
+
 ![Fig:04](https://raw.githubusercontent.com/alberto-alberello/alberto-alberello.github.io/master/media/fig_fadaeiazar2020a_04.png)
 
 
