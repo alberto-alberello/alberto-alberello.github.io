@@ -63,7 +63,7 @@ c2. **Alberello**, Chabchoub, Gramstad, Babanin and Toffoli. __Statistics of wav
 c1. Meylan, Toffoli, Bennetts, Cavaliere, **Alberello** and Babanin. __An experimental model of wave-induced motions of an ice floe__. Proceedings of the 19th Australasian Fluid Mechanics Conference, RMIT University, Melbourne, Australia. Australasian Fluid Mechanics Society. 2014.
 ### Data products
 #### 2020
-d8. Derkani, **Alberello**, Toffoli (2020). __Antarctic Circumnavigation Expedition 2017: WAMOS data product__, Australian Antarctic Data Centre -- [doi:10.26179/5e9d038c396f2](doi:10.26179/5e9d038c396f2)
+d8. Derkani*, **Alberello**, Toffoli (2020). __Antarctic Circumnavigation Expedition 2017: WAMOS data product__, Australian Antarctic Data Centre -- [doi:10.26179/5e9d038c396f2](doi:10.26179/5e9d038c396f2)
 
 d7. **Alberello**, Bennetts, Toffoli (2020, updated 2020). __Marginal ice zone drift prediction model__, Australian Antarctic Data Centre -- [doi:10.26179/5e3b98478d0c3](doi:10.26179/5e3b98478d0c3)
 #### 2019
