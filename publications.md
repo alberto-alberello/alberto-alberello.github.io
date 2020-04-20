@@ -6,7 +6,7 @@ permalink: /publications/
 
 ### Metrics
 [Google Scholar](https://scholar.google.com/citations?user=32bF0ZgAAAAJ&hl=en):
-- Citations: 175 (75 in 2019)
+- Citations: 180 (75 in 2019)
 - h-index: 8
 - i-10 index: 8
 
