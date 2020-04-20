@@ -63,6 +63,8 @@ c2. **Alberello**, Chabchoub, Gramstad, Babanin and Toffoli. __Statistics of wav
 c1. Meylan, Toffoli, Bennetts, Cavaliere, **Alberello** and Babanin. __An experimental model of wave-induced motions of an ice floe__. Proceedings of the 19th Australasian Fluid Mechanics Conference, RMIT University, Melbourne, Australia. Australasian Fluid Mechanics Society. 2014.
 ### Data products
 #### 2020
+d8. Derkani, **Alberello**, Toffoli (2020). __Antarctic Circumnavigation Expedition 2017: WAMOS data product__, Australian Antarctic Data Centre -- [doi:10.26179/5e9d038c396f2](doi:10.26179/5e9d038c396f2)
+
 d7. **Alberello**, Bennetts, Toffoli (2020, updated 2020). __Marginal ice zone drift prediction model__, Australian Antarctic Data Centre -- [doi:10.26179/5e3b98478d0c3](doi:10.26179/5e3b98478d0c3)
 #### 2019
 d6. Derkani*, **Alberello**, Bennetts, Toffoli (2019, updated 2019). __ACE wave spectra--model prediction vs WaMoSII data__, Australian Antarctic Data Centre -- [doi:10.26179/5d280fa04c386](doi:10.26179/5d280fa04c386)
@@ -73,7 +75,7 @@ d4. Eayrs, Holland, Mojica, Vichi, **Alberello**, Bekker, Bennetts, De Jong, Jou
 #### 2018
 d3. **Alberello**, Bennetts, Derkani, Toffoli (2018). __Antarctic Circumnavigation Expedition 2017: HOSM data product__, Australian Antarctic Data Centre -- [doi:10.26179/5b8378b160b02](doi:10.26179/5b8378b160b02)
 
-d2. **Alberello**, Bennetts, Toffoli (2017, updated 2018). __Antarctic Circumnavigation Expedition 2017: WAMOS data__, Australian Antarctic Data Centre -- [doi:10.4225/15/5a17923429cb7](doi:10.4225/15/5a17923429cb7)
+d2. **Alberello**, Bennetts, Toffoli (2017, updated 2020). __Antarctic Circumnavigation Expedition 2017: WAMOS data__, Ver. 2, Australian Antarctic Data Centre -- [doi:10.26179/5e9cfad992fd6](doi:10.26179/5e9cfad992fd6)
 #### 2017
 
 d1. **Alberello**, Bennetts, Toffoli (2017, updated 2017). __Antarctic Circumnavigation Expedition 2017: motion sensor and GPS data__, Australian Antarctic Data Centre -- [doi:10.4225/15/5a178ef0e5156](doi:10.4225/15/5a178ef0e5156)
